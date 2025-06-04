@@ -30,6 +30,11 @@ final class qa_guru_iosUITests: XCTestCase {
 
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
+    func testExampleFail() throws {
+        let app = XCUIApplication()
+        app.launch()
+        app.buttons["Start"].tap()
+    }
 
     @MainActor
     func testLaunchPerformance() throws {
