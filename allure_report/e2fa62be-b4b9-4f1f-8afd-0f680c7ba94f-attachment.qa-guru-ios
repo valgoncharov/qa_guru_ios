@@ -1,0 +1,8 @@
+Application, 0x10324b0f0, pid: 31249, label: 'qa_guru_ios' <App element pid: 31249>
+  Window (Main), 0x102b10ce0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 31249, elementOrHash.elementID: 4350631776.3>
+    Other, 0x102b2c980, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 31249, elementOrHash.elementID: 4350660000.4>
+      Other, 0x102b312b0, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 31249, elementOrHash.elementID: 4351700880.5>
+        Other, 0x102b3da20, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 31249, elementOrHash.elementID: 4350649120.6>
+          Other, 0x102b25510, {{0.0, 0.0}, {393.0, 852.0}} <AX element pid: 31249, elementOrHash.elementID: 105553169754112.7>
+            Image, 0x102b21e90, {{185.7, 417.7}, {21.7, 21.7}}, identifier: 'globe', label: 'Globe' <AX element pid: 31249, elementOrHash.elementID: 105553169831392.8>
+            StaticText, 0x102b2a370, {{136.2, 441.2}, {120.7, 20.3}}, label: 'Hello, ios world!' <AX element pid: 31249, elementOrHash.elementID: 105553169753952.9>
